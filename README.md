@@ -9,6 +9,8 @@ Base configuration for Express with Typescript clean arquitecture
 - ts-node-dev
 - rimraf
 - morgan
+- dotenv
+- env-var
 
 # Config tsconfig.json
 npx tsc --init --outDir dist/ --rootDir src
